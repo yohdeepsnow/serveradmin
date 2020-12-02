@@ -1,2 +1,2 @@
 print ("halodunia")
-print ("ini berubah loh ya")
+print ("ini kayanya berubah loh ya")
